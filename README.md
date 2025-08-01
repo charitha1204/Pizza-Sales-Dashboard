@@ -62,8 +62,7 @@ This page dives into temporal and behavioral trends.
 - `Total Orders = DISTINCTCOUNT(order_id)`  
 - `Avg Pizzas per Order = SUM(quantity) / DISTINCTCOUNT(order_id)`  
 - More detailed DAX used for visuals & dynamic interactivity  
-
-## 📸 Dashboard Previews  
+ 
 ## 📸 Dashboard Previews  
 **[Screenshot 1 – Home Dashboard](https://raw.githubusercontent.com/charitha1204/Pizza-Sales-Dashboard/main/Screenshots/Home%20Dashboard.png)**  
 **[Screenshot 2 – Best/Worst Seller Dashboard](https://raw.githubusercontent.com/charitha1204/Pizza-Sales-Dashboard/main/Screenshots/Best%20or%20Worst%20Seller%20Dashboard.png)**
