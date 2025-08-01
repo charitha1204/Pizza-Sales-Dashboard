@@ -1,9 +1,9 @@
- 🍕 Pizza Sales Dashboard (Power BI + SQL)
+# 🍕 Pizza Sales Dashboard (Power BI + SQL)
 
 ## 🚀 Project Summary  
 A data-driven visual analysis of pizza sales using SQL for validation and Power BI for interactive dashboards. This project delivers insights into sales trends, customer preferences, and product performance while enabling better business decisions with clean, layered visuals and smart DAX calculations.
 
-## 🎯 Core Analysis Objective
+## 📌 Core Analysis Objective  
 - Tracks overall pizza performance across categories, days, and times  
 - Identifies top-selling and underperforming products  
 - Highlights sales trends and peak hours/days  
