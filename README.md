@@ -1,4 +1,4 @@
-<img width="252" height="23" alt="image" src="https://github.com/user-attachments/assets/2347c50e-6982-4b0c-b2c2-3ff025d8f446" /># 🍕 Pizza Sales Dashboard (Power BI + SQL)
+ 🍕 Pizza Sales Dashboard (Power BI + SQL)
 
 ## 🚀 Project Summary  
 A data-driven visual analysis of pizza sales using SQL for validation and Power BI for interactive dashboards. This project delivers insights into sales trends, customer preferences, and product performance while enabling better business decisions with clean, layered visuals and smart DAX calculations.
